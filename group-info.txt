@@ -1,0 +1,11 @@
+Group Name:Group I
+Names of Group Members:
+Nagitta Sumayiyah
+Kizza kenneth
+Ssenoga Cyrus
+Muwonge Joseph
+kaggwa Morris
+Mukasa Mark
+
+Short Descipition:
+How to create a git account, hoc to clone a respirotory how to push and commit to a respirotory.
